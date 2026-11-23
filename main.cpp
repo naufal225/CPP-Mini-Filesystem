@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-#define BLOCK 512
+#define BLOCKS 4096u
 #define N_BLOCKS 64
 #define MAX_FILES 16
 
